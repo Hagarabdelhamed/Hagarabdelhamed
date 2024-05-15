@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Hagar Abdelhamed</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg5ZjU1a3Y4bm92bnA5M29yYnM0bDVwdGZiYXBoYzhoMnFjOWd4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hagarabdelhamed&label=Profile%20views&color=0e75b6&style=flat" alt="hagarabdelhamed" /> </p>
 
-- 🌱 I’m currently learning **Flutter,UI/UX**
+- 🌱 I’m currently learning **SQL , PYTHON FOR DATA ANALYSIS**
 
 - 📫 How to reach me **habdelhamed585@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1JVg_2iiYAsN1TmHs_kUfdH94Mqi56mrR?usp=drive_link](https://drive.google.com/drive/folders/1JVg_2iiYAsN1TmHs_kUfdH94Mqi56mrR?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
